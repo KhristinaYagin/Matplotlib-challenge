@@ -1,1 +1,1 @@
-# Matplotlib-challenge
+We learned the basics of Matplotlib, one of the most popular Python plotting libraries in use today. This focuses on how to import the Matplotlib library and use its core PyPlot module to design and customize line, bar, and pie charts as well as scatter plots. we are able to: Navigate Matplotlib's PyPlot interface, create line charts, bar charts, pie charts, and scatter plots with Matplotlib, change the appearance of plots in Matplotlib and identify basic plot configuration options, such as xlim and ylim, with Matplotlib.
